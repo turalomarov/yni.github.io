@@ -10156,3 +10156,25 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+
+
+.map-frame {
+  width: 600px;
+  height: 450px;
+}
+
+@media(max-width:440px) {
+  .map-frame {
+    width: 380px;
+    height: 450px;
+  }
+}
+
+@media(max-width:350px) {
+  .map-frame {
+    width: 300px;
+    height: 450px;
+  }
+}
+
