@@ -10164,7 +10164,7 @@ header.masthead h1 {
   height: 450px;
 }
 
-@media(max-width:600px) {
+@media(max-width:700px) {
   .map-frame {
     width: 300px;
     height: 450px;
